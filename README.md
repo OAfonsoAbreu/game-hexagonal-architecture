@@ -1,5 +1,5 @@
 # game-hexagonal-architecture
-Projeto para implementar arquitetura hexagonal com DDD
+Projeto para implementar arquitetura hexagonal - DDD
 
 Projeto implementa JWT para autenticação e autorização.
 Para conseguir autenticar, utilize o usuário: admin e senha: admin no endpoint .../v1/auth/authenticate
